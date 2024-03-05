@@ -1,0 +1,39 @@
+> 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.economist.com](https://www.economist.com/china/2024/03/03/crunch-time-for-xi-jinping-at-chinas-annual-political-meeting)
+
+> New growth targets will be set as thousands of delegates gather in Beijing
+
+[China](https://www.economist.com/china/) | The annual “two sessions” meeting
+
+New growth targets will be set as thousands of delegates gather in Beijing
+--------------------------------------------------------------------------
+
+HOW DO YOU reset the world’s conversation about a country that is in trouble? That is the task facing China’s embattled leadership this week, during what will be the most important public-facing political event of the year. China’s legislature, the National People’s Congress (NPC), is a rubber-stamp affair, but its annual session provides a rare window onto what the Communist Party is thinking. This year’s gathering will begin on March 5th with a state-of-the-nation speech from Li Qiang, the prime minister, and will end one week later. In between there is the closest you get to a public examination of the Chinese government’s performance and plans. The three things to watch for are its efforts to halt the economic panic, evidence of the long-term economic agenda of Xi Jinping, China’s supreme leader, and signs of the power balance within the misfiring leadership group itself.
+
+![](https://www.economist.com/cdn-cgi/image/width=1424,quality=80,format=auto/content-assets/images/20240309_EPC667.png)image: The Economist
+
+This year’s meeting of the legislature and the near-simultaneous one of its advisory body—known collectively as the “two sessions”—take place amid grim economic news. New figures show factory production shrinking in February. Deflation has taken hold: consumer and producer prices fell in January by 0.8% and 2.5% respectively, compared with a year earlier (see chart 1). Property prices are falling month on month. The stockmarket has risen a little in the past few weeks, after state interventions to stop a rout, but is still worth $4trn less than at its peak. As thousands of delegates gather in Beijing, security is tight: commercial drones have been banned in the city, postal parcels are subject to extra checks and incoming trains are now subject to special security procedures.
+
+![](https://www.economist.com/cdn-cgi/image/width=1424,quality=80,format=auto/content-assets/images/20240309_EPC931.png)image: The Economist
+
+The immediate focus will be on government efforts to revive the economy. On March 5th Mr Li will present the “government work report” in the Great Hall of the People overlooking Tiananmen Square. This will include a GDP growth target for 2024 and a fiscal-deficit target which the markets will watch closely. Independent forecasters put growth at between 4% and 5.2% this year with an average of 4.6%, according to Bloomberg data (see chart 2). The government will probably announce a target at the high end of this range, of around 5%. To reach that it may have to crank up stimulus.
+
+Stimulus in China comes in many forms, on the books and off them, but one proxy for it is the fiscal deficit, which was 3.8% in 2023 after the government ramped up spending during the year. Helen Qiao of Bank of America expects the target for this year’s deficit to be 3.5% of GDP and that 1trn yuan ($140bn) of “special bonds”, to finance spending, will be issued by the central government on top of that. China’s broad fiscal deficit needs to increase by at least 1.5% of GDP this year to keep deflation at bay, says Robin Xing of Morgan Stanley. He expects the government to set a fiscal expansion closer to 0.5% of GDP at the two sessions. The rest will have to come later in the year, once the government realises it has no choice but to respond to inadequate demand.
+
+Mr Xi is known to worry about the downsides of stimulus, such as more debt and wasteful investment. In an alternative scenario China might set a growth target of 4.5%, keep the deficit lower at 3% and make no mention of special bond issuances. That scenario would be a “reckoning moment” for investors, says Ms Qiao. It would demonstrate that even amid dire economic news, China is not prepared to gin up the economy, as many fund managers and business people would like it to.
+
+Alongside the crisis management, or lack of it, the NPC session may also reveal more about China’s long-term plan for getting out of the hole. Expect Mr Li to give soothing words to private investors, consumers and foreign investors about predictability and enthusiasm for enterprise. China’s latest slogans on the economy will also feature: while vague and fluid they can offer crucial signals about Mr Xi’s thinking. The past decade has already seen several consequential campaigns, including “Made in China 2025” (steroidal industrial policy), “common prosperity” (constraining excessive corporate power) and “dual circulation” (self-reliance). The new buzzwords are “high-quality development” and “new productive forces”, the latter of which Mr Xi began using with gusto last year. They denote a focus on improving productivity and promoting higher-value-added industries such as climate technologies, life sciences and, inevitably, artificial intelligence.
+
+Yet even if these ideas have coherence, the big problem is a credibility gap. State media hail the “new productive forces” slogan as an innovation in Marxist theory, not an unleashing of markets. And even as China says it wants to rebuild relations with private enterprise, other policy changes point to crackdowns and inconsistent delivery. On February 27th the government tightened rules on “work secrets” as part of its new “comprehensive national security” doctrine. This appears to further expand the surveillance of business. Around the same time it imposed restrictions on quantitative trading funds, which use computers to trade and are ubiquitous outside China.
+
+The credibility problem illuminates the third theme of the legislative session: China’s leadership. One theory of why policymaking has become less successful is that too much power has been concentrated in the hands of Mr Xi, who has limited bandwidth and economic experience, even as technocrats have been sidelined.
+
+A possible sign of Mr Xi’s determination to dominate everything was an announcement on March 4th that Mr Li will not take questions from journalists at the end of the parliamentary session on March 11th, nor at subsequent NPC meetings except in “special circumstances”. It has been customary since the 1980s for the prime minister to hold such a press conference: a rare occasion in a country where leaders are intensely media-shy. Mr Li was appointed as the number two in 2022. He is regarded as a pragmatist who “gets” the economy and business and who has the boss’s trust. But it may be that Mr Xi prefers that his underling does not hog too much limelight.
+
+The next ten days or so will simply confirm Mr Xi’s iron grip. China’s parliament lacks any real power, but there have been occasional hints of dissatisfaction on matters that are not of vital concern to the party. These have become increasingly rare. In 2013 the NPC voted “yes” on 85.3% of the proposals and reports put before it. Last year under Mr Xi that rose to a two-decade high of 98.6%, according to an analysis by the Asia Society. One of the delegates is Mr Xi. No one dares to contradict his words at breakout meetings. In 2023 his re-election as president by the NPC was unanimous, as no doubt he preferred. ■
+
+The Economist today
+
+Handpicked stories, in your inbox
+---------------------------------
+
+A daily newsletter with the best of our journalism
